@@ -12,11 +12,11 @@ L'application permettre de :
 - Faire l'authentification et protéger les routes
 
 
-Les captures:
+Les captures:s
 <img src="/images/Capture d’écran 2023-12-13 à 14.55.57.png">
-<img src="/Users/meriemlafsahi/IdeaProjects/Tp5-main/images/Capture d’écran 2023-12-13 à 14.56.10.png">
-<img src="/Users/meriemlafsahi/IdeaProjects/Tp5-main/images/Capture d’écran 2023-12-13 à 14.56.15.png">
-<img src="/Users/meriemlafsahi/IdeaProjects/Tp5-main/images/Capture d’écran 2023-12-13 à 14.56.22.png">
-<img src="/Users/meriemlafsahi/IdeaProjects/Tp5-main/images/Capture d’écran 2023-12-13 à 14.56.28.png">
-<img src="/Users/meriemlafsahi/IdeaProjects/Tp5-main/images/Capture d’écran 2023-12-13 à 14.56.45.png">
+<img src="/images/Capture d’écran 2023-12-13 à 14.56.10.png">
+<img src="/images/Capture d’écran 2023-12-13 à 14.56.15.png">
+<img src="/images/Capture d’écran 2023-12-13 à 14.56.22.png">
+<img src="/images/Capture d’écran 2023-12-13 à 14.56.28.png">
+<img src="/images/Capture d’écran 2023-12-13 à 14.56.45.png">
 
