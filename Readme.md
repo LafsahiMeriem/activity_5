@@ -1,4 +1,4 @@
-Activity 5: Angular Framework
+# Activity 5: Angular Framework
 
 Objectif :
 Création d'une application web basée sur Angular qui permet de gérer les produits. Chaque Produit est défini par son id, name, price, quantity, available. Le backend de l'application est basé sur une REST API basée sur Json-Server
